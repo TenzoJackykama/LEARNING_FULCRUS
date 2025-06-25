@@ -1,2 +1,5 @@
-# LEARNING_FULCRUS
-each branch for big time topiiiic
+# TODO LEARN
+
+kotlin 
+asynchronous programming
+parallel and concurrent
